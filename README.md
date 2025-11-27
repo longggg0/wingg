@@ -6,7 +6,10 @@ Name: Horn Bunlong
 
 #Features
 
-Sticky Navbar (header stays on top while scrolling) 2.Responsive Navigation Menu 3.Hamburger menu for mobile 4.Hero Section with Background Image
+Sticky Navbar (header stays on top while scrolling) 
+2.Responsive Navigation Menu
+3.Hamburger menu for mobile 
+4.Hero Section with Background Image
 Responsive Two-Column Section
 Text + Image layout
 Grid Layout (4-column card layout for section 3)
