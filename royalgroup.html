@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Royal Group</title>
+    <!-- <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>     -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css"
+      integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <style>
+  </style>
+  <body>
+    <header>
+      <div class="container">
+        <div class="logo">
+          <img src="./images/logo.png" alt="" width="250px" />
+        </div>
+
+        <!-- Hamburger Button -->
+        <div class="hamburger" id="hamburger">
+          <i class="fa-solid fa-bars"></i>
+        </div>
+
+        <nav class="menu" id="menu">
+          <ul>
+            <li><a href="https://www.royalgroup.com.kh/about-royal-group">Who we are</a></li>
+            <li><a href="https://www.royalgroup.com.kh/business-portfolio">Business Portfolio</a></li>
+            <li><a href="https://www.royalgroup.com.kh/investors">Investors</a></li>
+            <li><a href="https://www.royalgroup.com.kh/latest-news">Content Hub</a></li>
+            <li><a href="https://www.royalgroup.com.kh/contact-us">Contact Us</a></li>
+            <li><a href=""><i class="fa-solid fa-magnifying-glass"></i></a></li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+
+    <script>
+      const hamburger = document.getElementById("hamburger");
+      const menu = document.getElementById("menu");
+
+      hamburger.addEventListener("click", () => {
+        menu.classList.toggle("active");
+      });
+    </script>
+
+    <main>
+      <div class="main_section">
+        <div class="herosection">
+          <div class="headline">
+            <h1>Explore Cambodia With the Royal Group</h1>
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam
+              laudantiume. omnis!
+            </p>
+          </div>
+          <div>
+            <a href="#" class="cta-btn">Get Started</a>
+
+            <a href="#" class="cta-btn">Explore More</a>
+          </div>
+        </div>
+        <div class="section2">
+          <article class="section2-text">
+            <h1>About the Royal Group of Companies</h1>
+            <p>
+              Cambodia’s strategic investment holding company, the Royal Group
+              is recognised as the country’s most dynamic and diversified
+              business conglomerate. Explore the overwhelming investment
+              potential in the Mekong Region of Asia with us.
+            </p>
+            <a href="#" class="cta-btn">Explore More</a>
+          </article>
+
+          <div class="poster">
+            <img src="./images/angkor.png" alt="Angkor" />
+          </div>
+        </div>
+        <div class="section3">
+          <p class="section3-title">Our Operating Companies</p>
+
+          <div class="card-container">
+            <div class="card">
+              <img src="./images/wingbank.webp" alt="" />
+            </div>
+            <div class="card">
+              <img src="./images/cellcard.png" alt="" />
+            </div>
+            <div class="card">
+              <img src="./images/ezecom.png" alt="" />
+            </div>
+            <div class="card">
+              <img src="./images/infinity.png" alt="" />
+            </div>
+            <div class="card">
+              <img src="./images/JTRUST_Logo.jpg" alt="" />
+            </div>
+            <div class="card">
+              <img src="./images/WingBankTower.png" alt="" />
+            </div>
+            <div class="card">
+              <img src="./images/wingmall.png" alt="" />
+            </div>
+          </div>
+        </div>
+      </div>
+      <section class="pricing">
+  <h2>Pricing Plans</h2>
+
+  <div class="pricing-container">
+    <div class="plan">
+      <h3>Free</h3>
+      <p>$0 / month</p>
+      <ul>
+        <li>Basic Features</li>
+        <li>Limited Access</li>
+        <li>Community Support</li>
+      </ul>
+      <button>Get Started</button>
+    </div>
+
+    <div class="plan">
+      <h3>Premium Individual</h3>
+      <p>$9.99 / month</p>
+      <ul>
+        <li>All Premium Features</li>
+        <li>Unlimited Access</li>
+        <li>Email Support</li>
+      </ul>
+      <button>Choose Plan</button>
+    </div>
+
+    <div class="plan">
+      <h3>Family</h3>
+      <p>$19.99 / month</p>
+      <ul>
+        <li>Up to 5 Members</li>
+        <li>Premium Features</li>
+        <li>Priority Support</li>
+      </ul>
+      <button>Choose Plan</button>
+    </div>
+  </div>
+</section>
+
+    </main>
+    <footer class="footer">
+  <div class="footer-top">
+    <ul class="footer-links">
+      <li><a href="#">Career</a></li>
+      <li><a href="#">Privacy Policy</a></li>
+      <li><a href="#">Terms of Use</a></li>
+    </ul>
+  </div>
+
+  <hr class="footer-line">
+
+  <div class="footer-bottom">
+    <span>© 2021 The Royal Group - All Rights Reserved</span>
+
+    <div class="footer-icons">
+      <i class="fa-brands fa-linkedin"></i>
+      <i class="fa-brands fa-facebook"></i>
+      <i class="fa-brands fa-instagram"></i>
+    </div>
+  </div>
+</footer>
+
+  </body>
+</html>
