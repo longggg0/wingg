@@ -18,8 +18,8 @@ Image logo: WingBank, Cellcard, Ezecom, Infinity Insurance, J trust, Wingbank To
 
 #how run project locally
 - create repo and push the entire project to the repo
-- go to setting -> pages -
-https://longggg0.github.io/wingg/ copy my link and past to web browser 
+- go to setting -> pages -> deploy from branch -> branch (main, /root) and then save
+  here is my link  https://longggg0.github.io/wingg/ 
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8cfeb5d8-b2fc-431d-8bba-edc628c852a4" />
 <img width="526" height="919" alt="image" src="https://github.com/user-attachments/assets/ae1a966c-2b04-4c15-9a43-e8ac30f166d4" />
