@@ -1,6 +1,3 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8cfeb5d8-b2fc-431d-8bba-edc628c852a4" />
-<img width="526" height="919" alt="image" src="https://github.com/user-attachments/assets/ae1a966c-2b04-4c15-9a43-e8ac30f166d4" />
-
 # RoyalGroup
 # wingbank
 Project title: RoyalGroup
@@ -18,3 +15,10 @@ Hover Effects (cards + buttons) Responsive Layout Using Media Queries CSS Transi
 
 Cover image: AngkorWat Temple
 Image logo: WingBank, Cellcard, Ezecom, Infinity Insurance, J trust, Wingbank Tower, WingMall
+
+#run project locally
+https://longggg0.github.io/wingg/ copy my link and past to web browser 
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8cfeb5d8-b2fc-431d-8bba-edc628c852a4" />
+<img width="526" height="919" alt="image" src="https://github.com/user-attachments/assets/ae1a966c-2b04-4c15-9a43-e8ac30f166d4" />
+
