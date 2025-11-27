@@ -16,7 +16,9 @@ Hover Effects (cards + buttons) Responsive Layout Using Media Queries CSS Transi
 Cover image: AngkorWat Temple
 Image logo: WingBank, Cellcard, Ezecom, Infinity Insurance, J trust, Wingbank Tower, WingMall
 
-#run project locally
+#how run project locally
+- create repo and push the entire project to the repo
+- go to setting -> pages -
 https://longggg0.github.io/wingg/ copy my link and past to web browser 
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8cfeb5d8-b2fc-431d-8bba-edc628c852a4" />
