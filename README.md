@@ -27,6 +27,8 @@ Hover Effects (cards + buttons) Responsive Layout Using Media Queries CSS Transi
 Cover image: AngkorWat Temple
 Image logo: WingBank, Cellcard, Ezecom, Infinity Insurance, J trust, Wingbank Tower, WingMall
 
+font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+
 #how run project locally
 - create repo and push the entire project to the repo
 - go to setting -> pages -> deploy from branch -> branch (main, /root) and then save
